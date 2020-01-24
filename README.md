@@ -11,3 +11,4 @@ The prerequisites:
 - Proccessing 2.0 (iclude core, gluegen, jogl libraries)
 
 ![screen1](https://user-images.githubusercontent.com/49707233/73069557-4b7df900-3eae-11ea-9210-d77328c366e8.png)
+![screen2](https://user-images.githubusercontent.com/49707233/73069688-a7488200-3eae-11ea-85e7-aaf1d4943f65.png)
